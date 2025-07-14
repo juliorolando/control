@@ -1,1 +1,1 @@
-extension_smarthotel = false
+extension_smarthotel = true
